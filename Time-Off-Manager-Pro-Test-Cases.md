@@ -1,4 +1,5 @@
 # Time-Off Manager Pro - Test Cases
+Project Jira Board: SCRUM Board
 
 ## Objective  
 Create a time-off management system for employees, managers, and HR.
@@ -42,6 +43,7 @@ Included:
 ---
 
 ## Requirement 01.01 - View Home Page After Successful Login
+Related Jira: SCRUM-4
 
 ### Test Case 1 - Validate Login with Unregistered User
 
@@ -102,6 +104,7 @@ Included:
 ---
 
 ## Requirement 02 - New Request "Fields validations"
+Related Jira: SCRUM-10
 
 ### TC_001_NewRequestNavigation
 
