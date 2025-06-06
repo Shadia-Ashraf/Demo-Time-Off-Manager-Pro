@@ -1,5 +1,5 @@
 # Time-Off Manager Pro - Test Cases
-Project Jira Board: SCRUM Board
+[Related Project Jira Board: SCRUM Board](https://shadiaashraf.atlassian.net/jira/software/projects/SCRUM/boards/1?issueParent=10003)
 
 ## Objective  
 Create a time-off management system for employees, managers, and HR.
