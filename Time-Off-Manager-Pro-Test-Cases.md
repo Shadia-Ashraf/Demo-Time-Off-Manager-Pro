@@ -43,7 +43,7 @@ Included:
 ---
 
 ## Requirement 01.01 - View Home Page After Successful Login
-Related Jira: SCRUM-4
+Related Jira Issue: [SCRUM-4](https://shadiaashraf.atlassian.net/browse/SCRUM-4)
 
 ### Test Case 1 - Validate Login with Unregistered User
 
@@ -104,7 +104,9 @@ Related Jira: SCRUM-4
 ---
 
 ## Requirement 02 - New Request "Fields validations"
-Related Jira: SCRUM-10
+Related Jira Issue: [SCRUM-10](https://shadiaashraf.atlassian.net/browse/SCRUM-10)
+
+
 
 ### TC_001_NewRequestNavigation
 
