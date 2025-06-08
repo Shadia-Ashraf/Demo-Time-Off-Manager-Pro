@@ -1,29 +1,6 @@
 # Time-Off Manager Pro - Test Cases
 [Related Jira: SCRUM Board](https://shadiaashraf.atlassian.net/jira/software/projects/SCRUM/boards/1?issueParent=10003)
 
-## Objective  
-Create a time-off management system for employees, managers, and HR.
-
-## Context  
-This project will streamline time-off request submissions and management, improving communication and efficiency.
-
-## Scope  
-Included:
-- User interface for requests
-- Notification system for managers and HR
-- Manager dashboard for requests
-- Centralized tracking for HR
-- Calendar integration for visualizing time-off
-
-## Success Criteria
-- User-friendly interface developed
-- Notification system functioning
-- Managers can manage requests efficiently
-- User has a centralized tracking system
-- Calendar feature operational
-
----
-
 ## Table of Contents
 1. [Requirement 01.01 - View Home Page After Successful Login](#requirement-0101---view-home-page-after-successful-login)
     - Test Case 1: Validate Login with Unregistered User
@@ -213,6 +190,27 @@ Related Jira Issue: [SCRUM-10](https://shadiaashraf.atlassian.net/browse/SCRUM-1
 | **Status**      | To be tested                                              |
 
 ---
+## Objective  
+Create a time-off management system for employees, managers, and HR.
 
+## Context  
+This project will streamline time-off request submissions and management, improving communication and efficiency.
+
+## Scope  
+Included:
+- User interface for requests
+- Notification system for managers and HR
+- Manager dashboard for requests
+- Centralized tracking for HR
+- Calendar integration for visualizing time-off
+
+## Success Criteria
+- User-friendly interface developed
+- Notification system functioning
+- Managers can manage requests efficiently
+- User has a centralized tracking system
+- Calendar feature operational
+
+---
 
 
