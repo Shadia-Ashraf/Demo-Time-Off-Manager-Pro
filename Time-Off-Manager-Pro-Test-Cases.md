@@ -1,24 +1,6 @@
 # Time-Off Manager Pro - Test Cases
 [Related Jira: SCRUM Board](https://shadiaashraf.atlassian.net/jira/software/projects/SCRUM/boards/1?issueParent=10003)
 
-## Table of Contents
-1. [Requirement 01.01 - View Home Page After Successful Login](#requirement-0101---view-home-page-after-successful-login)
-    - Test Case 1: Validate Login with Unregistered User
-    - Test Case 2: Validate Homepage Layout and Icons
-    - Test Case 3: Validate Employee Login
-    - Test Case 4: Validate Welcome Username Display
-2. [Requirement 02 - New Request "Fields validations"](#requirement-02---new-request-fields-validations)
-    - TC_001_NewRequestNavigation
-    - TC_002_RequestType
-    - TC_003_RequestTypeMandatory
-    - TC_004_TimeOffType
-    - TC_005_TimeOffTypeMandatory
-    - TC_006_TimeOffTypeDropdownOptions
-    - TC_007_TimeOffTypeInvalidEntry
-    - TC_008_TimeOffTypeUIValidation
-
----
-
 ## Requirement 01.01 - View Home Page After Successful Login
 Related Jira Issue: [SCRUM-4](https://shadiaashraf.atlassian.net/browse/SCRUM-4)
 
@@ -190,27 +172,7 @@ Related Jira Issue: [SCRUM-10](https://shadiaashraf.atlassian.net/browse/SCRUM-1
 | **Status**      | To be tested                                              |
 
 ---
-## Objective  
-Create a time-off management system for employees, managers, and HR.
 
-## Context  
-This project will streamline time-off request submissions and management, improving communication and efficiency.
 
-## Scope  
-Included:
-- User interface for requests
-- Notification system for managers and HR
-- Manager dashboard for requests
-- Centralized tracking for HR
-- Calendar integration for visualizing time-off
-
-## Success Criteria
-- User-friendly interface developed
-- Notification system functioning
-- Managers can manage requests efficiently
-- User has a centralized tracking system
-- Calendar feature operational
-
----
 
 
